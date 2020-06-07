@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/laptop-store.iml" filepath="$PROJECT_DIR$/laptop-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laptop-store-api/laptop-store-api.iml" filepath="$PROJECT_DIR$/laptop-store-api/laptop-store-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laptop-store-dao/laptop-store-dao.iml" filepath="$PROJECT_DIR$/laptop-store-dao/laptop-store-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laptop-store-security/laptop-store-security.iml" filepath="$PROJECT_DIR$/laptop-store-security/laptop-store-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laptop-store-service/laptop-store-service.iml" filepath="$PROJECT_DIR$/laptop-store-service/laptop-store-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laptop-store-util/laptop-store-util.iml" filepath="$PROJECT_DIR$/laptop-store-util/laptop-store-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laptop-store-war/laptop-store-war.iml" filepath="$PROJECT_DIR$/laptop-store-war/laptop-store-war.iml" />
+    </modules>
+  </component>
+</project>

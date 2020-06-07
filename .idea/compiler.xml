@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="laptop-store-dao" />
+        <module name="laptop-store-util" />
+        <module name="laptop-store-api" />
+        <module name="laptop-store-service" />
+        <module name="laptop-store-security" />
+        <module name="laptop-store-war" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="laptop-store" target="1.8" />
+      <module name="laptop-store-api" target="1.8" />
+      <module name="laptop-store-dao" target="1.8" />
+      <module name="laptop-store-security" target="1.8" />
+      <module name="laptop-store-service" target="1.8" />
+      <module name="laptop-store-util" target="1.8" />
+      <module name="laptop-store-war" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="laptop-store-war:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39c84600-6a6d-444f-b005-6900d7313931" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Project/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_0_offline/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_0_offline/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_1_set_up_firebase/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_1_set_up_firebase/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_2_sign_in/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_2_sign_in/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_3_analytics/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_3_analytics/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_4_auth/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_4_auth/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_5_data_syncing/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_5_data_syncing/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_6_image_support/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/full_steps/step_6_image_support/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_0_flutter_create/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_0_flutter_create/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_1_main_user_interface/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_1_main_user_interface/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_2_composing_messages/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_2_composing_messages/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_3_displaying_messages/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_3_displaying_messages/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_4_animate/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_4_animate/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_5_finishing_touches/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friendlychat-steps-master/offline_steps/step_5_finishing_touches/friendlychat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/classes/META-INF/laptop-store-api.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/classes/META-INF/laptop-store-dao.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/classes/META-INF/laptop-store-security.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/classes/META-INF/laptop-store-service.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/classes/META-INF/laptop-store-util.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/lib/eclipselink-2.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/lib/jbcrypt-0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/lib/jjwt-0.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/laptop_store_war_war_exploded/WEB-INF/resources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BookLib" beforeDir="false" afterPath="$PROJECT_DIR$/../BookLib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyRapChieuPhim/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyRapChieuPhim/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyRapChieuPhim/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyRapChieuPhim/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyRapChieuPhim/bin/application/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyRapChieuPhim/bin/application/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyRapChieuPhim/bin/application/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyRapChieuPhim/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyRapChieuPhim/src/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyRapChieuPhim/src/application/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baotriphanmem/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../baotriphanmem/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baotriphanmem/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../baotriphanmem/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baotriphanmem/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../baotriphanmem/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baotriphanmem/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../baotriphanmem/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1bfND7j817Krftfdhbpgf87nVTr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TomEE 9.0.30" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 9.0.30" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="laptop-store-war:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_laptop-store_2" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57082" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="laptop-store-war:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39c84600-6a6d-444f-b005-6900d7313931" name="Default Changelist" comment="" />
+      <created>1589019065283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589019065283</updated>
+      <workItem from="1589019066797" duration="817000" />
+      <workItem from="1589019927902" duration="1514000" />
+      <workItem from="1589039611944" duration="5009000" />
+      <workItem from="1589097504874" duration="5781000" />
+      <workItem from="1589112766763" duration="3758000" />
+      <workItem from="1589124204470" duration="1372000" />
+      <workItem from="1589211132640" duration="31000" />
+      <workItem from="1589348529337" duration="2742000" />
+      <workItem from="1589353663009" duration="4112000" />
+      <workItem from="1589357835147" duration="1568000" />
+      <workItem from="1589359463145" duration="4264000" />
+      <workItem from="1589364816990" duration="450000" />
+      <workItem from="1589376564855" duration="13361000" />
+      <workItem from="1589554022436" duration="786000" />
+      <workItem from="1589606999944" duration="1109000" />
+      <workItem from="1589612119400" duration="37000" />
+      <workItem from="1589616294227" duration="5626000" />
+      <workItem from="1589644200374" duration="4879000" />
+      <workItem from="1589690386082" duration="13100000" />
+      <workItem from="1589768360389" duration="3294000" />
+      <workItem from="1589967529891" duration="6136000" />
+      <workItem from="1590286910165" duration="3315000" />
+      <workItem from="1590351524293" duration="1166000" />
+      <workItem from="1590420346729" duration="357000" />
+      <workItem from="1590684691461" duration="943000" />
+      <workItem from="1590757597862" duration="642000" />
+      <workItem from="1590804568049" duration="5108000" />
+      <workItem from="1590812167335" duration="18247000" />
+      <workItem from="1590844936471" duration="597000" />
+      <workItem from="1590886734512" duration="5299000" />
+      <workItem from="1590892328730" duration="16204000" />
+      <workItem from="1590910586820" duration="8247000" />
+      <workItem from="1590921723152" duration="9179000" />
+      <workItem from="1590977697906" duration="1159000" />
+      <workItem from="1591087790779" duration="1405000" />
+      <workItem from="1591094858583" duration="826000" />
+      <workItem from="1591097698149" duration="1187000" />
+      <workItem from="1591113809345" duration="4633000" />
+      <workItem from="1591188393665" duration="3786000" />
+      <workItem from="1591272721689" duration="4975000" />
+      <workItem from="1591407732915" duration="44000" />
+      <workItem from="1591409580743" duration="3573000" />
+      <workItem from="1591454124863" duration="296000" />
+      <workItem from="1591497033439" duration="1549000" />
+      <workItem from="1591513552296" duration="2355000" />
+      <workItem from="1591518527405" duration="400000" />
+      <workItem from="1591520119105" duration="1664000" />
+      <workItem from="1591521861273" duration="901000" />
+      <workItem from="1591522892271" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="227" key="#Notifications" timestamp="1590899374649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="227" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1590899374649" />
+    <state x="275" y="5" key="#Plugins" timestamp="1589019884800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="5" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1589019884800" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1591520391968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1591520391968" />
+    <state x="379" y="0" width="622" height="728" key="#TomEE_9.0.30" timestamp="1590684968032">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="622" height="728" key="#TomEE_9.0.30/0.0.1366.728@0.0.1366.728" timestamp="1590684968032" />
+    <state x="463" y="242" key="#TomEE_Server" timestamp="1590684946253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="242" key="#TomEE_Server/0.0.1366.728@0.0.1366.728" timestamp="1590684946253" />
+    <state x="461" y="242" key="#Tomcat_Server" timestamp="1589019352902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="461" y="242" key="#Tomcat_Server/0.0.1366.728@0.0.1366.728" timestamp="1589019352902" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589554205521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589554205521" />
+    <state x="450" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1590918011737">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590918011737" />
+    <state x="313" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589019590680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="313" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1589019590680" />
+    <state x="413" y="0" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1589019407248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="0" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.728@0.0.1366.728" timestamp="1589019407248" />
+    <state x="207" y="0" key="CommitChangelistDialog2" timestamp="1591521805782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="207" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591521805782" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1591518218068">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1591518218068" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1591454272666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591454272666" />
+    <state width="1094" height="266" key="GridCell.Tab.0.bottom" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.0.center" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.0.left" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.0.right" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.1.bottom" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.1.center" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.1.left" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.1.right" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.2.bottom" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.2.center" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.2.left" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="266" key="GridCell.Tab.2.right" timestamp="1591523054460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="266" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1591523054460" />
+    <state width="1094" height="218" key="GridCell.Tab.3.bottom" timestamp="1591290155234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="218" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591290155234" />
+    <state width="1094" height="218" key="GridCell.Tab.3.center" timestamp="1591290155234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="218" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1591290155234" />
+    <state width="1094" height="218" key="GridCell.Tab.3.left" timestamp="1591290155234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="218" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1591290155234" />
+    <state width="1094" height="218" key="GridCell.Tab.3.right" timestamp="1591290155234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1094" height="218" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1591290155234" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1589020060796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589020060796" />
+    <state x="390" y="0" width="686" height="728" key="find.popup" timestamp="1589695283616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="686" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1589695283616" />
+    <state x="65" y="0" key="new project wizard" timestamp="1591518853657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591518853657" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1591274993263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591274993263" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590832383482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590832383482" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/laptop-store-service/src/main/java/org/example/service/constants/FilterConstants.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/laptop-store-api/src/main/java/org/example/model/Laptop.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TomeeConfiguration">
+        <watch expression="filter.getCpu().toUpperCase()" language="JAVA" />
+        <watch expression="filter.getBrand()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

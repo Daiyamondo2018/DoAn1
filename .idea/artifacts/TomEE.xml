@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="TomEE">
+    <output-path>$PROJECT_DIR$/out/artifacts/TomEE</output-path>
+    <root id="root" />
+  </artifact>
+</component>
