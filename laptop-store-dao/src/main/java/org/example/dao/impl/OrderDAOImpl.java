@@ -36,6 +36,8 @@ public class OrderDAOImpl implements OrderDAO {
 
     @Override
     @Transactional(Transactional.TxType.REQUIRES_NEW)
+
+    // save order
     public void save(Order order) {
         if (order.getId() == null) {
             insert(order);
@@ -198,6 +200,7 @@ public class OrderDAOImpl implements OrderDAO {
             laptop.setQuantity(remainQuantity);
         });
         laptops.forEach(laptop -> em.merge(laptop));
+        //System.out.println(laptops);
     }
 
     @Transactional(Transactional.TxType.REQUIRED)
