@@ -31,7 +31,7 @@ public class TagDAOImpl implements TagDAO {
     @Transactional(Transactional.TxType.SUPPORTS)
     public List<Tag> findByIds(List<Integer> ids) {
         if (ids.isEmpty()) return new ArrayList<>();
-        String query = "SELECT t FROM Tag t WHERE t.id IN :ids";
+        String query = "SELECT t FROM Tag t where t.id IN :ids";
         return em.createQuery(query, Tag.class)
                 .setParameter("ids", ids)
                 .getResultList();
